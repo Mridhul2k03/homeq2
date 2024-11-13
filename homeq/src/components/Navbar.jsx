@@ -42,7 +42,7 @@ const Navbar = () => {
             <span className="sr-only">Your Company</span>
             <img
               alt=""
-              src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+              src="https://trend-x.vercel.app/NAV%20LOGO.png"
               className="h-8 w-auto"
             />
           </a>
