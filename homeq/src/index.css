@@ -5,3 +5,7 @@
 body{
   font-family: "Funnel Display", sans-serif;
 }
+#SwiperSlide{
+  display: flex;
+  justify-content: center;
+}
