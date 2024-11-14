@@ -1,4 +1,3 @@
-import React from 'react'
 import { lazy,Suspense } from 'react'
 
 const HomeSlide = lazy(() => import('../components/HomeSlide'))

@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Footer = () => {
     const currentYear = new Date().getFullYear();
@@ -129,6 +129,17 @@ const Footer = () => {
                 rel="noopener noreferrer"
               >
                 HomeQ
+              </a>
+            </div>
+            <div className="text-sm text-blueGray-500 font-semibold py-1 ">
+              Powered by 
+              <a 
+                href="https://exmedia.in"
+                className="text-blueGray-500 hover:text-gray-800 ps-2 text-decoration"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Exmedia
               </a>
             </div>
           </div>
